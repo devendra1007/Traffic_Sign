@@ -32,9 +32,8 @@ The project is built using the following technologies:
 ### Prerequisites
 - **Python Version**: Ensure you have Python 3.10.11 installed.
 - **Virtual Environment**: It is recommended to use a virtual environment for this project.
-
+```
 ### Setting Up the Environment
-
 1. **Create a Virtual Environment**:
    ```bash
    python -m venv myenv
@@ -68,6 +67,6 @@ The project is built using the following technologies:
 
 ## Conclusion
 This project represents a significant step towards developing autonomous vehicles capable of safely navigating roads by recognizing and interpreting traffic signs. With continued research and development, the goal is to achieve even higher accuracy and real-time performance.
-```
+
 
 This `README.md` provides all the necessary information for understanding, setting up, and running the Traffic Signs Recognition project.
