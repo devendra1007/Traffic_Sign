@@ -34,6 +34,7 @@ The project is built using the following technologies:
 - **Virtual Environment**: It is recommended to use a virtual environment for this project.
 
 ### Setting Up the Environment
+
 1. **Create a Virtual Environment**:
    ```bash
    python -m venv myenv
