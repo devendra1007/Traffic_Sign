@@ -1,6 +1,5 @@
-Here’s the complete `README.md` file for your Traffic Signs Recognition project:
+This `README.md` provides all the necessary information for understanding, setting up, and running the Traffic Signs Recognition project.
 
-```markdown
 # Traffic Signs Recognition Project
 
 ## Overview
@@ -32,7 +31,7 @@ The project is built using the following technologies:
 ### Prerequisites
 - **Python Version**: Ensure you have Python 3.10.11 installed.
 - **Virtual Environment**: It is recommended to use a virtual environment for this project.
-```
+
 ### Setting Up the Environment
 1. **Create a Virtual Environment**:
    ```bash
@@ -61,12 +60,9 @@ The project is built using the following technologies:
    ```
 
 ### Running the Project
-1. **Train the Model**: Run the training script to train the CNN model on the traffic sign dataset.
-2. **Test the Model**: Use the test script to evaluate the model's accuracy.
-3. **Launch the Application**: Start the GUI application to recognize traffic signs using images.
+1. **Train the Model**: Run the training script to train the CNN model on the traffic sign dataset.(/code/code.py)
+2. **Test the Model**: Use the test script to evaluate the model's accuracy.(/code/code.py)
+3. **Launch the Application**: Start the GUI application to recognize traffic signs using images.(/code/tikinter.py)
 
 ## Conclusion
 This project represents a significant step towards developing autonomous vehicles capable of safely navigating roads by recognizing and interpreting traffic signs. With continued research and development, the goal is to achieve even higher accuracy and real-time performance.
-
-
-This `README.md` provides all the necessary information for understanding, setting up, and running the Traffic Signs Recognition project.
